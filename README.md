@@ -33,9 +33,9 @@ This project answers these questions through <b>data-driven insights and interac
 
 <ul>
   <li>👩 Female customers contribute a significant share of total purchases</li>
-  <li>👕 Clothing category accounts for the highest performance with **1,737 sales (~45% of total sales)** and **104K revenue (~45% of total revenue)**.</li>
-  <li>👥 Young Adults contribute the most with **1,028 purchases (~26%)** and **62K revenue (~26%)**, making them the most valuable customer segment.</li>
-  <li>💰 Adult and Senior groups each contribute **56K revenue (~24% each)**, showing consistent spending across older demographics.</li>
+  <li>👕 Clothing category accounts for the highest performance with 1,737 sales (~45% of total sales) and 104K revenue (~45% of total revenue).</li>
+  <li>👥 Young Adults contribute the most with 1,028 purchases (~26%) and 62K revenue (~26%), making them the most valuable customer segment.</li>
+  <li>💰 Adult and Senior groups each contribute 56K revenue (~24% each), showing consistent spending across older demographics.</li>
   <li>🔁 Only ~27% customers are subscribed → growth opportunity</li>
 </ul>
 
