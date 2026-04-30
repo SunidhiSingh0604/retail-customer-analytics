@@ -159,20 +159,74 @@ Raw Data → Data Cleaning → Exploratory Analysis → SQL Insights → Power B
 
 <h2>🚀 How to Run the Project</h2>
 
-<pre>
-# Step 1: Clone repository
-git clone https://github.com/your-username/project-name.git
+<h2>🚀 How to Run the Project</h2>
 
-# Step 2: Install dependencies
-pip install -r requirements.txt
+<ol>
+  <li>
+    <b>Clone the repository</b>
+    <pre>
+git clone https://github.com/your-username/retail-customer-analytics.git
+cd retail-customer-analytics
+    </pre>
+  </li>
 
-# Step 3: Run analysis
-Open notebooks/eda_analysis.ipynb
+  <li>
+    <b>Open the Jupyter Notebook</b>
+    <p><code>notebooks/eda_analysis.ipynb</code></p>
 
-# Step 4: Open dashboard
-Open the .pbix file in Power BI Desktop
-</pre>
+    <p>This notebook includes:</p>
+    <ul>
+      <li>Data Import</li>
+      <li>Data Exploration (EDA)</li>
+      <li>Data Cleaning & Preprocessing</li>
+      <li>Feature Understanding</li>
+    </ul>
+  </li>
 
+  <li>
+    <b>Set up SQL Database</b>
+    <ul>
+      <li>Create a database in MySQL / PostgreSQL / SQL Server</li>
+      <li>Use the dataset: <code>data/customer_shopping_behavior.csv</code></li>
+      <li>Load cleaned data into your SQL database</li>
+    </ul>
+  </li>
+
+  <li>
+    <b>Run SQL Analysis</b>
+    <p>Open the file:</p>
+    <pre>sql/business_analysis.sql</pre>
+
+    <p>This file contains queries for:</p>
+    <ul>
+      <li>Revenue by gender</li>
+      <li>Category-wise performance</li>
+      <li>Age group analysis</li>
+      <li>Subscription insights</li>
+    </ul>
+  </li>
+
+  <li>
+    <b>Open Power BI Dashboard</b>
+    <p>Navigate to:</p>
+    <pre>dashboard/customer_behavior_dashboard.pbix</pre>
+
+    <ul>
+      <li>Connect Power BI to your SQL database</li>
+      <li>Load the data model</li>
+      <li>Explore interactive visuals and insights</li>
+    </ul>
+  </li>
+
+  <li>
+    <b>Customize & Explore</b>
+    <ul>
+      <li>Modify queries for deeper insights</li>
+      <li>Enhance dashboard visuals</li>
+      <li>Experiment with filters and KPIs</li>
+    </ul>
+  </li>
+</ol>
 <hr>
 
 <h2>💡 Business Recommendations</h2>
