@@ -2,8 +2,8 @@
 ![SQL](https://img.shields.io/badge/SQL-MySQL-orange?logo=mysql&style=flat-square)
 ![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow?logo=powerbi&style=flat-square)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Cleaning-lightblue?logo=pandas&style=flat-square)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
 ![HTML](https://img.shields.io/badge/Documentation-HTML-orange?logo=html5&style=flat-square)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
 
 # Retail Customer Analytics
 
