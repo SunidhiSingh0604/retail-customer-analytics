@@ -251,6 +251,6 @@ cd retail-customer-analytics
 <h2>👨‍💻 About the Author</h2>
 
 <p>
-Hey, I’m <b>Komal</b>, an aspiring Data Analyst.<br>
+Hey, I’m <b>Sunidhi Singh</b>, an aspiring Data Analyst.<br>
 I build data-driven projects that turn raw data into meaningful business insights.
 </p>
