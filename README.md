@@ -172,10 +172,10 @@ cd retail-customer-analytics
 
   <li>
     <b>Open the Jupyter Notebook</b>
-    <p><code>notebooks/eda_analysis.ipynb</code></p>
+    <p>notebooks/eda_analysis.ipynb</p>
 
     This notebook includes:
-    Data Import
+      Data Import
       Data Exploration (EDA)
       Data Cleaning & Preprocessing
       Feature Understanding
