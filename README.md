@@ -114,8 +114,6 @@ Raw Data → Data Cleaning → Exploratory Analysis → SQL Insights → Power B
 
 <h2>📂 Project Structure</h2>
 
-<pre>
-<h2 id="project-structure">📂 Project Structure</h2>
 
 <pre>
 📁 Retail-Customer-Analytics
