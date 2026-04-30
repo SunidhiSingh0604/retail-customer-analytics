@@ -1,4 +1,4 @@
-# Retail-Customer-Analytics
+# Retail Customer Analytics
 🛒 Retail Customer Behavior Analytics Dashboard
 📌 Project Summary
 
