@@ -1,5 +1,4 @@
 # Retail Customer Analytics
-<h1>🛒 Retail Customer Analytics</h1>
 
 <h2>🛍️ Retail Customer Behavior Analytics Dashboard – Project Summary</h2>
 
