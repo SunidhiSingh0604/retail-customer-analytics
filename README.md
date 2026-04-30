@@ -46,8 +46,8 @@ This project answers these questions through <b>data-driven insights and interac
   <li> Only ~27% customers are subscribed → growth opportunity</li>
 </ul>
 
-<p><b>👉 Translation (what recruiters care about):</b><br>
-You didn’t just analyze data — you identified <b>real business opportunities</b>.
+<p>
+<b>Business Impact:</b> Identified high-performing categories and customer segments to support targeted marketing, inventory optimization, and subscription growth strategies.
 </p>
 
 <hr>
