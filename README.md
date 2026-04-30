@@ -174,13 +174,12 @@ cd retail-customer-analytics
     <b>Open the Jupyter Notebook</b>
     <p><code>notebooks/eda_analysis.ipynb</code></p>
 
-    <p>This notebook includes:</p>
-    <ul>
-      <li>Data Import</li>
-      <li>Data Exploration (EDA)</li>
-      <li>Data Cleaning & Preprocessing</li>
-      <li>Feature Understanding</li>
-    </ul>
+    This notebook includes:
+    Data Import
+      Data Exploration (EDA)
+      Data Cleaning & Preprocessing
+      Feature Understanding
+
   </li>
 
   <li>
@@ -197,13 +196,12 @@ cd retail-customer-analytics
     <p>Open the file:</p>
     <pre>sql/business_analysis.sql</pre>
 
-    <p>This file contains queries for:</p>
-    <ul>
-      <li>Revenue by gender</li>
-      <li>Category-wise performance</li>
-      <li>Age group analysis</li>
-      <li>Subscription insights</li>
-    </ul>
+    This file contains queries for:
+      Revenue by gender
+      Category-wise performance
+      Age group analysis
+      Subscription insights
+    
   </li>
 
   <li>
@@ -211,11 +209,10 @@ cd retail-customer-analytics
     <p>Navigate to:</p>
     <pre>dashboard/customer_behavior_dashboard.pbix</pre>
 
-    <ul>
-      <li>Connect Power BI to your SQL database</li>
-      <li>Load the data model</li>
-      <li>Explore interactive visuals and insights</li>
-    </ul>
+    Connect Power BI to your SQL database
+      Load the data model
+      Explore interactive visuals and insights
+   
   </li>
 
   <li>
