@@ -1,5 +1,5 @@
 # Retail Customer Analytics
-🛒<b> Retail Customer Behavior Analytics Dashboard- Project Summary</b>
+🛍️ Retail Customer Behavior Analytics Dashboard – Project Summary
 
 A complete end-to-end data analytics project focused on analyzing customer shopping behavior in a retail business environment.
 
@@ -14,9 +14,9 @@ What product categories perform best?
 How does age and gender influence buying behavior?
 What role do subscriptions play in revenue growth?
 
-This project answers these questions with data-driven insights and interactive visualization.
+This project answers these questions through data-driven insights and interactive visualization.
 
-🧠 Key Insights (From Your Dashboard)
+🧠 Key Insights
 👩 Female customers contribute a significant share of total purchases
 👕 Clothing category generates the highest sales and revenue
 👥 Young Adults are the top-performing customer segment
@@ -24,13 +24,13 @@ This project answers these questions with data-driven insights and interactive v
 🔁 Only ~27% customers are subscribed → growth opportunity
 
 👉 Translation (what recruiters care about):
-You didn’t just analyze data — you found business opportunities.
+You didn’t just analyze data — you identified real business opportunities.
 
 📊 Dashboard Overview
 🔹 Customer Metrics
 Total Customers: 3.9K
-Avg Purchase: $59.76
-Avg Rating: 3.75
+Average Purchase Amount: $59.76
+Average Review Rating: 3.75
 🔹 Visual Insights
 Sales & Revenue by Category
 Customer Distribution by Subscription
@@ -41,7 +41,7 @@ Interactive Filters (Gender, Category, Subscription)
 ⚙️ Tech Stack
 Layer	Tools Used
 Data Cleaning	Python (Pandas)
-EDA	Matplotlib / Seaborn
+Exploratory Data Analysis	Matplotlib, Seaborn
 Querying	SQL
 Visualization	Power BI
 Documentation	Markdown
@@ -92,18 +92,18 @@ pip install -r requirements.txt
 Open notebooks/eda_analysis.ipynb
 
 # Step 4: Open dashboard
-Open .pbix file in Power BI Desktop
+Open the .pbix file in Power BI Desktop
 💡 Business Recommendations
-📈 Increase subscription adoption via discounts or loyalty programs
-🎯 Target young adults with personalized marketing
+📈 Increase subscription adoption using discounts or loyalty programs
+🎯 Target young adults with personalized marketing campaigns
 🛍️ Focus inventory on high-performing categories (Clothing)
-⭐ Improve product quality to increase customer ratings
+⭐ Improve product quality to boost customer ratings
 📌 Why This Project Stands Out
-✔ End-to-end pipeline (not just dashboard)
+✔ End-to-end analytics pipeline (not just visualization)
 ✔ Combines Python + SQL + Power BI
-✔ Focus on business impact, not just visuals
-✔ Real-world problem simulation
-👨‍💻 Author
+✔ Focus on business impact rather than just charts
+✔ Simulates a real-world retail analytics scenario
+👨‍💻 About the Author
 
-Komal
-Aspiring Data Analyst | Python • SQL • Power BI
+Hey, I’m Komal, an aspiring Data Analyst.
+I build data-driven projects that turn raw data into meaningful business insights.
