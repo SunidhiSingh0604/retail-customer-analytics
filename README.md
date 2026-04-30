@@ -180,7 +180,6 @@ cd retail-customer-analytics
   <li>
     <b>Open the Jupyter Notebook</b>
     <p><code>notebooks/eda_analysis.ipynb</code></p>
-
     <ul>
       <li>Data import and preprocessing</li>
       <li>Exploratory data analysis</li>
