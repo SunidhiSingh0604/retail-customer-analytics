@@ -47,7 +47,7 @@ You didn’t just analyze data — you identified <b>real business opportunities
 
 <h2>📊 Dashboard Overview</h2>
 
-<h3>🔹 Customer Metrics</h3>
+<h3>🔹 Key Performance Indicators (KPIs)</h3>
 <ul>
   <li><b>Total Customers:</b> 3.9K</li>
   <li><b>Average Purchase Amount:</b> $59.76</li>
