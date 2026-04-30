@@ -115,23 +115,27 @@ Raw Data → Data Cleaning → Exploratory Analysis → SQL Insights → Power B
 <h2>📂 Project Structure</h2>
 
 <pre>
+<h2 id="project-structure">📂 Project Structure</h2>
+
+<pre>
 📁 Retail-Customer-Analytics
-│── 📁 data
-│   └── customer_shopping_behavior.csv
 │
-│── 📁 notebooks
-│   └── eda_analysis.ipynb
+│── 📁 <a href="data/customer_shopping_behavior.csv">data</a>
+│   └── <a href="data/customer_shopping_behavior.csv">customer_shopping_behavior.csv</a>
 │
-│── 📁 sql
-│   └── business_analysis.sql
+│── 📁 <a href="notebooks/eda_analysis.ipynb">notebooks</a>
+│   └── <a href="notebooks/eda_analysis.ipynb">eda_analysis.ipynb</a>
 │
-│── 📁 dashboard
-│   └── customer_behavior_dashboard.pbix
+│── 📁 <a href="sql/business_analysis.sql">sql</a>
+│   └── <a href="sql/business_analysis.sql">business_analysis.sql</a>
 │
-│── 📁 images
-│   └── dashboard_preview.png
+│── 📁 <a href="dashboard/customer_behavior_dashboard.pbix">dashboard</a>
+│   └── <a href="dashboard/customer_behavior_dashboard.pbix">customer_behavior_dashboard.pbix</a>
 │
-│── README.md
+│── 📁 <a href="images/dashboard_preview.png">images</a>
+│   └── <a href="images/dashboard_preview.png">dashboard_preview.png</a>
+│
+│── <a href="README.md">README.md</a>
 </pre>
 
 <hr>
