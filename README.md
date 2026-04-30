@@ -189,6 +189,7 @@ cd retail-customer-analytics
     <li>Feature Understanding</li>
   </ul>
 </li>
+
   <li>
     <b>Set up SQL Database</b>
     <ul>
