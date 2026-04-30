@@ -168,8 +168,6 @@ Raw Data → Data Cleaning → Exploratory Analysis → SQL Insights → Power B
 
 <h2>🚀 How to Run the Project</h2>
 
-<h2>🚀 How to Run the Project</h2>
-
 <ol>
   <li>
     <b>Clone the repository</b>
