@@ -178,10 +178,10 @@ Open the .pbix file in Power BI Desktop
 <h2>💡 Business Recommendations</h2>
 
 <ul>
-  <li>📈 Increase subscription adoption using discounts or loyalty programs</li>
-  <li>🎯 Target young adults with personalized marketing campaigns</li>
-  <li>🛍️ Focus inventory on high-performing categories (Clothing)</li>
-  <li>⭐ Improve product quality to boost customer ratings</li>
+  <li> Increase subscription adoption using discounts or loyalty programs</li>
+  <li> Target young adults with personalized marketing campaigns</li>
+  <li> Focus inventory on high-performing categories (Clothing)</li>
+  <li> Improve product quality to boost customer ratings</li>
 </ul>
 
 <hr>
