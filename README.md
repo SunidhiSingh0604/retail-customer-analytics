@@ -198,7 +198,7 @@ cd retail-customer-analytics
 
   <li>
     <b>Run SQL Queries</b>
-    <pre>sql/business_analysis.sql</pre>
+    <p><code>sql/business_analysis.sql</code></p>
     <ul>
       <li>Analyze revenue trends</li>
       <li>Evaluate customer segments</li>
@@ -208,7 +208,7 @@ cd retail-customer-analytics
 
   <li>
     <b>Open Power BI Dashboard</b>
-    <pre>dashboard/customer_behavior_dashboard.pbix</pre>
+    <p><code>dashboard/customer_behavior_dashboard.pbix</code></p>
     <ul>
       <li>Connect to SQL database</li>
       <li>Load data model</li>
