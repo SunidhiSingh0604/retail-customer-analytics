@@ -82,10 +82,6 @@ You didn’t just analyze data — you identified <b>real business opportunities
     <td>Python (Pandas)</td>
   </tr>
   <tr>
-    <td>Exploratory Data Analysis</td>
-    <td>Matplotlib, Seaborn</td>
-  </tr>
-  <tr>
     <td>Querying</td>
     <td>SQL</td>
   </tr>
