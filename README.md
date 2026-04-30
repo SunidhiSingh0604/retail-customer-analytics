@@ -181,62 +181,44 @@ cd retail-customer-analytics
     <b>Open the Jupyter Notebook</b>
     <p><code>notebooks/eda_analysis.ipynb</code></p>
 
-    <p>This notebook includes:</p>
     <ul>
-      <li>Data Import</li>
-      <li>Data Exploration (EDA)</li>
-      <li>Data Cleaning &amp; Preprocessing</li>
-      <li>Feature Understanding</li>
+      <li>Data import and preprocessing</li>
+      <li>Exploratory data analysis</li>
+      <li>Data cleaning and transformation</li>
     </ul>
   </li>
 
   <li>
     <b>Set up SQL Database</b>
     <ul>
-      <li>Create a database in MySQL / PostgreSQL / SQL Server</li>
-      <li>Use the dataset: <code>data/customer_shopping_behavior.csv</code></li>
-      <li>Load cleaned data into your SQL database</li>
+      <li>Create a database (MySQL / PostgreSQL / SQL Server)</li>
+      <li>Load dataset: <code>data/customer_shopping_behavior.csv</code></li>
+      <li>Insert cleaned data into the database</li>
     </ul>
   </li>
 
   <li>
-    <b>Run SQL Analysis</b>
-    <p>Open the file:</p>
+    <b>Run SQL Queries</b>
     <pre>sql/business_analysis.sql</pre>
-
-    <p>This file contains queries for:</p>
     <ul>
-      <li>Revenue by gender</li>
-      <li>Category-wise performance</li>
-      <li>Age group analysis</li>
-      <li>Subscription insights</li>
+      <li>Analyze revenue trends</li>
+      <li>Evaluate customer segments</li>
+      <li>Generate business insights</li>
     </ul>
   </li>
 
   <li>
     <b>Open Power BI Dashboard</b>
-    <p>Navigate to:</p>
     <pre>dashboard/customer_behavior_dashboard.pbix</pre>
-
     <ul>
-      <li>Connect Power BI to your SQL database</li>
-      <li>Load the data model</li>
-      <li>Explore interactive visuals and insights</li>
-    </ul>
-  </li>
-
-  <li>
-    <b>Customize &amp; Explore</b>
-    <ul>
-      <li>Modify queries for deeper insights</li>
-      <li>Enhance dashboard visuals</li>
-      <li>Experiment with filters and KPIs</li>
+      <li>Connect to SQL database</li>
+      <li>Load data model</li>
+      <li>Explore interactive visuals</li>
     </ul>
   </li>
 </ol>
 
 <hr>
-
 <h2>💡 Business Recommendations</h2>
 
 <ul>
