@@ -257,6 +257,6 @@ cd retail-customer-analytics
 <h2>👨‍💻 About the Author</h2>
 
 <p>
-Hey, I’m <b>Sunidhi Singh</b>, an aspiring Data Analyst.<br>
-I build data-driven projects that turn raw data into meaningful business insights.
+Hey, I'm <b>Sunidhi Singh</b>, a Data Analyst who builds end-to-end analytics 
+projects that turn raw data into real business decisions.
 </p>
