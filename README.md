@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-MySQL-orange?logo=mysql&style=flat-square)
+![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow?logo=powerbi&style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Cleaning-lightblue?logo=pandas&style=flat-square)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
+
 # Retail Customer Analytics
 
 <h2>🛍️ Retail Customer Behavior Analytics Dashboard – Project Summary</h2>
