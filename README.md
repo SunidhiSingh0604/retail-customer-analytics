@@ -260,3 +260,9 @@ cd retail-customer-analytics
 Hey, I'm <b>Sunidhi Singh</b>, a Data Analyst who builds end-to-end analytics 
 projects that turn raw data into real business decisions.
 </p>
+
+<p>📧 Connect with me on 
+<a href="https://www.linkedin.com/in/sunidhi-singh-4aa45233b" target="_blank">
+LinkedIn
+</a>
+</p>
