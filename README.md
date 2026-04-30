@@ -179,7 +179,6 @@ cd retail-customer-analytics
 
   <li>
     <b>Open the Jupyter Notebook</b>
-    <p><code>notebooks/eda_analysis.ipynb</code></p>
     <ul>
       <li>Data import and preprocessing</li>
       <li>Exploratory data analysis</li>
@@ -198,7 +197,6 @@ cd retail-customer-analytics
 
   <li>
     <b>Run SQL Queries</b>
-    <p><code>sql/business_analysis.sql</code></p>
     <ul>
       <li>Analyze revenue trends</li>
       <li>Evaluate customer segments</li>
@@ -208,7 +206,6 @@ cd retail-customer-analytics
 
   <li>
     <b>Open Power BI Dashboard</b>
-    <p><code>dashboard/customer_behavior_dashboard.pbix</code></p>
     <ul>
       <li>Connect to SQL database</li>
       <li>Load data model</li>
