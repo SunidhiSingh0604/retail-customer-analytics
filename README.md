@@ -240,10 +240,10 @@ cd retail-customer-analytics
 <h2>📌 Why This Project Stands Out</h2>
 
 <ul>
-  <li>✔ End-to-end analytics pipeline (not just visualization)</li>
-  <li>✔ Combines Python + SQL + Power BI</li>
-  <li>✔ Focus on business impact rather than just charts</li>
-  <li>✔ Simulates a real-world retail analytics scenario</li>
+  <li> End-to-end analytics pipeline (not just visualization)</li>
+  <li> Combines Python + SQL + Power BI</li>
+  <li> Focus on business impact rather than just charts</li>
+  <li> Simulates a real-world retail analytics scenario</li>
 </ul>
 
 <hr>
