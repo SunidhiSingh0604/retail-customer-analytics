@@ -1,5 +1,5 @@
 # Retail Customer Analytics
-🛒 Retail Customer Behavior Analytics Dashboard- Project Summary
+🛒<b> Retail Customer Behavior Analytics Dashboard- Project Summary</b>
 
 A complete end-to-end data analytics project focused on analyzing customer shopping behavior in a retail business environment.
 
